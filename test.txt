@@ -1,1 +1,3 @@
 ***Pushing file to remote***
+Ime:
+Prezime:
