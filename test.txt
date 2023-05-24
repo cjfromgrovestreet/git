@@ -2,3 +2,5 @@
 Ime: Uros
 Prezime: Aleksic
 Next user:
+Ime:
+Prezime:
