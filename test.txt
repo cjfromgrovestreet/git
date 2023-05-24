@@ -2,5 +2,5 @@
 Ime: Uros
 Prezime: Aleksic
 Next user:
-Ime:
-Prezime:
+Ime: Petar
+Prezime: Petrovic
