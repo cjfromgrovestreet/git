@@ -1,5 +1,5 @@
 ***Pushing file to remote***
-Ime: Uros
+Ime: Aleksa
 Prezime: Aleksic
 Next user:
 Ime: Petar
