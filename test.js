@@ -6,5 +6,4 @@ const vrednost=mapa.get(2);
 if(vrednost){
     console.log("Ima");
 }else{
-    console.log(vrednost)
 }
