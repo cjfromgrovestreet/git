@@ -1,6 +1,1 @@
-***Pushing file to remote***
-Ime: ABRAKADABRA
-Prezime: Aleksic
-Next user:
-Ime: Petar
-Prezime: Petrovic
+1
